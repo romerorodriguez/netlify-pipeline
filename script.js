@@ -1,0 +1,1 @@
+document.getElementById('mensaje').innerText = "Este contenido viene de JavaScript.";
